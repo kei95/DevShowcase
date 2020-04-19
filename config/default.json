@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Kei95:cT8X6NcTcquOrAYZ@cluster0-pego5.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Kei95:cT8X6NcTcquOrAYZ@cluster0-pego5.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
